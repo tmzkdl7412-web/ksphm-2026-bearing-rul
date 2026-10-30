@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 대회 데이터 · 실행 산출물 (배포 불가 / 재생성 가능)
+data/
+Train/
+Test/
+merged_features.csv
+.tdms_cache/
+*_all.xlsx
+포크착기_validation*.xlsx
+
+.DS_Store
