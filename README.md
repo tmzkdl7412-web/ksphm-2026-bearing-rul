@@ -1,6 +1,6 @@
 # ⚙️ 베어링 잔여수명(RUL) 예측 — KSPHM-KIMM 기계 데이터 챌린지 2026
 
-> 팀 **포크착기** · KSPHM-KIMM 기계 데이터 챌린지 2026 참가
+> 팀 **포크착기** · KSPHM-KIMM 기계 데이터 챌린지 2026 참가 · [📒 Notion 정리](https://app.notion.com/p/2786d3eae30781779174d6016655525f)
 
 25.6 kHz 4채널 진동 데이터(TDMS)만으로 베어링이 고장 나기까지 남은 시간(Remaining Useful Life)을 예측하는 파이프라인입니다.
 데이터 로드 → 특징 추출 → 건전성 지표(HI) 생성 → 모델 학습·검증 → 제출 파일 생성까지 **단일 스크립트**로 실행됩니다.
@@ -89,6 +89,7 @@ python run_rul_bearing.py
 ## 문서
 
 - [Technical Report (PDF)](docs/technical_report.pdf) — 대회 제출용 기술 보고서
+- [Notion 정리](https://app.notion.com/p/2786d3eae30781779174d6016655525f) — 챌린지 진행 과정 기록
 
 ## 구조
 
