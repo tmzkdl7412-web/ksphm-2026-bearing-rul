@@ -94,7 +94,6 @@ python rul_pipeline_final_submit_nocache.py
 ## 문서
 
 - [Technical Report (PDF)](docs/technical_report.pdf): 대회에 제출한 기술 보고서
-- [Notion 정리](https://app.notion.com/p/2786d3eae30781779174d6016655525f): 챌린지 진행 기록
 
 ## 구조
 
